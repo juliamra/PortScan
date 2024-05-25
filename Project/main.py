@@ -19,7 +19,7 @@ sleep(0.7)
 
 if __name__ == "__main__":
     hostname = host
-    port_range = range(1, 100)  
+    port_range = range(1, 65537)  
     output_file = "scan_results.txt"  
     scanner = PortScanner(hostname, port_range)
     try:
