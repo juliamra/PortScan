@@ -11,7 +11,7 @@ This project is currently in development and is perfect for those who want to be
 To install the necessary libraries, execute the following command:
 
 <p align="left">
-  <img src="src/carbon.png" alt="Installation" width="250" height="250">
+  <img src="src/carbon.png" alt="Installation" width="260" height="260">
 </p>
 
 ## 🚩Usage
