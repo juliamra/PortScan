@@ -1,4 +1,4 @@
-# PyPortScan
+# PortScan
 <p align="center">
   <img src="src/logo.png" alt="PyPortScan Logo" width="300" height="300">
 </p>
